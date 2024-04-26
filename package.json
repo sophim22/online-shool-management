@@ -1,5 +1,15 @@
 {
-  "dependencies": {
-    "firebase-tools": "^13.7.4"
-  }
+  "name": "online-shool-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "online-school-management"
+  },
+  "author": "sophim",
+  "license": "ISC"
 }
